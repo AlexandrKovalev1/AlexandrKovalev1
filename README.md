@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, my name is Alexandr and I'm frontend developer
+Languages and tools I use:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React" alt="Redux" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="React" alt="Postman" width="50" height="50"/>&nbsp;
 
-<!--
-**AlexandrKovalev1/AlexandrKovalev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<br/>     
+          Expand Down
+    
+    <br/>
 
-Here are some ideas to get you started:
+### Мои контакты:
+[<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=112287&format=png&color=000000" />][vk]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+  
+My contacts:
+- Email: [yakovalev1@mail.ru](mailto:yakovalev1@mail.ru)
+- Telegram: [@FrontendDevAlexander](https://t.me/FrontendDevAlexander)
