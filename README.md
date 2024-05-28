@@ -11,10 +11,8 @@ Languages and tools I use:
 
 </div>
 <br/>     
-          Expand Down
-    
-    <br/>
-
+    <img align="left" alt="https://github.com/lKolabrodl" src="https://www.codewars.com/users/LuckyLifeMan/badges/small" />
+<br/>
 ### Мои контакты:
 [<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=112159&format=png&color=000000" />][telegram]
 [<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=112287&format=png&color=000000" />][vk]
