@@ -16,11 +16,11 @@ Languages and tools I use:
     <br/>
 
 ### Мои контакты:
-[<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/cute-clipart/64/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=112159&format=png&color=000000" />][telegram]
 [<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=112287&format=png&color=000000" />][vk]
 
 <br/>
 
-[telegram]: [https://teleg.run/Kolabrod](https://t.me/FrontendDevAlexander)
+[telegram]:https://t.me/FrontendDevAlexander
 [vk]: https://vk.com/id26745777
   
