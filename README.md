@@ -16,7 +16,7 @@ Languages and tools I use:
 
 ### Мои контакты:
 [<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" />][telegram]
-[<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" />][vk]
+[<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=7XIUo6IIDLFu&format=png&color=000000" />][vk]
 <br/>
 
 [telegram]:https://t.me/FrontendDevAlexander
