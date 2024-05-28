@@ -20,7 +20,7 @@ Languages and tools I use:
 [<img align="left" alt="https://github.com/AlexandrKovalev1" width="35px" src="https://img.icons8.com/?size=100&id=112287&format=png&color=000000" />][vk]
 
 <br/>
+
+[telegram]: [https://teleg.run/Kolabrod](https://t.me/FrontendDevAlexander)
+[vk]: https://vk.com/id26745777
   
-My contacts:
-- Email: [yakovalev1@mail.ru](mailto:yakovalev1@mail.ru)
-- Telegram: [@FrontendDevAlexander](https://t.me/FrontendDevAlexander)
